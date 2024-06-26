@@ -11,7 +11,7 @@ let chanceDeErrar = 0;
 // Variáveis da bolinha
 let xBolinha = 400;
 let yBolinha = 300;
-let diametroBolinha = 70; // Aumentei o diâmetro da bolinha
+let diametroBolinha = 100; // Aumentei o diâmetro da bolinha
 let raioBolinha = diametroBolinha / 2;
 
 // Velocidade da bolinha
