@@ -46,7 +46,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(600, 400);
+  createCanvas(800, 600);
   somFundo.loop();
 
   // Posição inicial mais centralizada para a raquete do oponente
